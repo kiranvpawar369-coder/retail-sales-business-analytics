@@ -94,4 +94,4 @@ Computer Engineering | Aspiring Data Analyst
 
 Try the application here:
 
-[Retail Analytics Pro](https://retail-analytics-pro.streamlit.app/)
+https://retail-analytics-pro.streamlit.app/

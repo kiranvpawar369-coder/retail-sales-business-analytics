@@ -87,3 +87,6 @@ This project demonstrates an end-to-end data analytics workflow using Python, SQ
 **Kiran Vijay Pawar**
 
 Computer Engineering | Aspiring Data Analyst
+## Dashboard Preview
+
+![Retail Sales Analytics Dashboard](Screenshots/Retail_Sales_Dashboard.png)

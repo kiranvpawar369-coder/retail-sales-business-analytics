@@ -90,3 +90,8 @@ Computer Engineering | Aspiring Data Analyst
 ## Dashboard Preview
 
 ![Retail Sales Analytics Dashboard](Screenshots/Retail_Sales_Dashboard.png)
+## 🚀 Live Demo
+
+Try the application here:
+
+[Retail Analytics Pro](https://retail-analytics-pro.streamlit.app/)
